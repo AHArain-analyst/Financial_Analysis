@@ -2,8 +2,8 @@
 
 **Author Name:** Ali Hassan\
 **Email:** official.aharain@outlook.com\
-**Website:** https://contra.com/arainofficial\
-**Github:** https://github.com/AHArain-analyst\
+**Website:** https://contra.com/arainofficial \
+**Github:** https://github.com/AHArain-analyst \
 
 # Problem Statement:
 
