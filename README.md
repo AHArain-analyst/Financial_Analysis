@@ -85,7 +85,7 @@ ____
 - Detailed statistical analysis and visualizations to support findings.
 - Insights and recommendations for improving financial performance based on data analysis.
 - Identification of key factors influencing profitability and suggestions for strategic decision-making.
-- A Dashboard consisting of KPI to track insights for future use
+- A Dashboard consisting of KPIs to track insights for future use
 
 ____
 
@@ -97,7 +97,7 @@ ____
 - Discount Band: Discount applied to the product.
 - Units Sold: Number of units sold.
 - Manufacturing Price: Cost to manufacture the product.
-- Sale Price: Selling price of the product.
+- Sale Price: The selling price of the product.
 - Gross Sales: Total sales before discounts.
 - Discounts: Total discounts applied.
 - Sales: Net sales after discounts.
@@ -109,5 +109,5 @@ ____
 - Year: Year of the transaction.
 
 # Report:
-A complete Report has been made for understanding the whole process and findings of the analysis. Use folllowing [link](https://www.notion.so/officialaharain/Financial-Analysis-94b8ed6c12ea4500b2154a8bec474bba?pvs=4) for view it.
+A complete Report has been made for understanding the whole process and findings of the analysis. Use the following [link](https://www.notion.so/officialaharain/Financial-Analysis-94b8ed6c12ea4500b2154a8bec474bba?pvs=4) to view it.
 
